@@ -1,0 +1,50 @@
+## 🐝  - Agrinho 2025: Barraca do Mel -
+
+### 🏷 Tema: Festejando a Conexão Campo-Cidade
+
+---
+
+### 🎯 Objetivo do Projeto
+
+O jogo convida o jogador a participar das etapas de produção e venda dos produtos, valorizando o trabalho no campo e a cultura da feira, onde ocorre a troca entre quem produz e quem consome.
+
+O projeto **Barraca do Mel** foi criado com o objetivo de valorizar o alimento artesanal e destacar a conexão entre o campo e a cidade. O jogo apresenta as etapas de produção e venda de produtos derivados do mel, evidenciando o trabalho da agricultura familiar e a importância das feiras como espaço de troca e cultura.
+
+A protagonista Maria representa milhares de mulheres do campo que, com criatividade e dedicação, transformam ingredientes simples em alimentos de qualidade. Assim, o projeto também homenageia a força da mulher na agricultura familiar.
+
+---
+
+### 🕹 Como jogar
+
+O jogo funciona diretamente no navegador, com controles simples feitos apenas com o **mouse**.
+
+O jogador acompanha Maria e João em sua jornada para preparar alimentos com mel e vendê-los na feira da cidade. As instruções aparecem durante o próprio jogo, tornando a experiência intuitiva.
+
+---
+
+### ✨ Créditos
+
+Todo o jogo "Barraca do Mel" é um projeto original, com uma narrativa própria desenvolvida a partir do tema do concurso. Todos os textos e ideias apresentados são de própria autoria. As imagens utilizadas foram criadas por mim, usando o aplicativo IbisPaint, para uma estética pessoal e acolhedora.
+
+---
+
+### 👤 Autoria
+
+- Estudante: Beatriz de Souza dos Santos
+- Escola: Centro Estadual de Educação Profissional Florestal e Agrícola de Ortigueira
+- Professor:  ——
+- NRE: Telêmaco Borba
+
+---
+
+### 📌 Conclusão
+
+O jogo reforça a importância de fortalecer a relação entre quem produz e quem consome, mostrando que todos fazemos parte dessa grande conexão entre campo e cidade.
+
+Espero que com este projeto, eu possa destacar a importancia do trabalho no campo, especialmente o papel das mulheres na agricultura familiar, com a personagem Maria simbolizando coragem, criatividade e cuidado – características presentes em muitas agricultoras reais.
+
+---
+
+### 📃 Licença de uso
+
+Este projeto foi desenvolvido exclusivamente para fins educacionais e para participação no Concurso Agrinho 2025.
