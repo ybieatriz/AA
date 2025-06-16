@@ -1,4 +1,4 @@
-## 🐝  - Agrinho 2025: Barraca do Mel -
+# 🍯  - Agrinho 2025: Barraca do Mel -
 
 ### 🏷 Tema: Festejando a Conexão Campo-Cidade
 
@@ -28,11 +28,11 @@ Todo o jogo "Barraca do Mel" é um projeto original, com uma narrativa própria 
 
 ---
 
-### 👤 Autoria
+### 👤 Sobre
 
 - Estudante: Beatriz de Souza dos Santos
 - Escola: Centro Estadual de Educação Profissional Florestal e Agrícola de Ortigueira
-- Professor:  ——
+- Professora responsável:
 - NRE: Telêmaco Borba
 
 ---
