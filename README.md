@@ -10,7 +10,7 @@ O projeto **Barraca do Mel** foi criado com o objetivo de valorizar o alimento a
 A protagonista Maria representa milhares de mulheres do campo que, com criatividade e dedicação, transformam ingredientes simples em alimentos de qualidade. Assim, o projeto também homenageia a força da mulher na agricultura familiar.
 
 
----
+--
 
 ### 🕹 Como jogar
 
@@ -19,14 +19,14 @@ O jogo funciona diretamente no navegador, com controles simples feitos apenas co
 O jogador acompanha Maria e João em sua jornada para preparar alimentos com mel e vendê-los na feira da cidade. As instruções aparecem durante o próprio jogo, tornando a experiência intuitiva.
 
 
----
+--
 
 ### ✍ Créditos
 
 Todo o jogo "Barraca do Mel" é um projeto original, com uma narrativa própria desenvolvida a partir do tema do concurso. Todos os textos e ideias apresentados são de própria autoria. As imagens utilizadas foram criadas por mim, usando o aplicativo IbisPaint, para uma estética pessoal e acolhedora.
 
 
----
+--
 
 ### 👤 Sobre
 
@@ -36,7 +36,7 @@ Todo o jogo "Barraca do Mel" é um projeto original, com uma narrativa própria 
 - NRE: Telêmaco Borba
 
 
----
+--
 
 ### 📌 Conclusão
 
