@@ -1,6 +1,5 @@
-# 🍯  - Agrinho 2025: Barraca do Mel -
-
-### 🏷 Tema: Festejando a Conexão Campo-Cidade
+## 🍯  - Agrinho 2025: Barraca do Mel -
+Festejando a Conexão Campo-Cidade
 
 ---
 
