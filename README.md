@@ -1,7 +1,4 @@
 ## 🍯  - Agrinho 2025: Barraca do Mel -
-Festejando a Conexão Campo-Cidade
-
----
 
 ### 🎯 Objetivo do Projeto
 
@@ -21,7 +18,7 @@ O jogador acompanha Maria e João em sua jornada para preparar alimentos com mel
 
 ---
 
-### ✨ Créditos
+### ✍ Créditos
 
 Todo o jogo "Barraca do Mel" é um projeto original, com uma narrativa própria desenvolvida a partir do tema do concurso. Todos os textos e ideias apresentados são de própria autoria. As imagens utilizadas foram criadas por mim, usando o aplicativo IbisPaint, para uma estética pessoal e acolhedora.
 
