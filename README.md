@@ -28,7 +28,10 @@ O jogador acompanha Maria e João em sua jornada para preparar alimentos com mel
 
 ### ✍ Créditos
 
-O jogo "Barraca do Mel" é um projeto original, com uma narrativa própria desenvolvida a partir do tema do concurso. Todos os textos e ideias apresentados são de própria autoria. As imagens utilizadas foram criadas por mim, usando o aplicativo IbisPaint, para uma estética pessoal e acolhedora. Os áudios foram todos gerados por IA usando o site [elevenlabs.io](http://elevenlabs.io/).
+O jogo "Barraca do Mel" é um projeto original, com uma narrativa própria desenvolvida a partir do tema do concurso. 
+Todos os textos e ideias apresentados são de própria autoria. 
+As imagens utilizadas foram criadas por mim, usando o aplicativo [ibispaint.com](https://ibispaint.com/), para uma estética pessoal e acolhedora. 
+Os áudios foram todos gerados por IA usando o site [elevenlabs.io](http://elevenlabs.io/).
 
 ---
 
