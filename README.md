@@ -1,5 +1,12 @@
 ## 🍯 - Agrinho 2025: Barraca do Mel -
 
+### 🔗 Links
+
+Projeto no p5.js: https://editor.p5js.org/ybieatriz/sketches/IbeAy8A20
+Do jogo funcionando: https://ybieatriz.github.io/AA/
+
+---
+
 ### 🎯 Objetivo do Projeto
 
 O jogo convida o jogador a participar das etapas de produção e venda dos produtos, valorizando o trabalho no campo e a cultura da feira, onde ocorre a troca entre quem produz e quem consome.
@@ -7,18 +14,6 @@ O jogo convida o jogador a participar das etapas de produção e venda dos produ
 O projeto **Barraca do Mel** foi criado com o objetivo de valorizar o alimento artesanal e destacar a conexão entre o campo e a cidade. O jogo apresenta as etapas de produção e venda de produtos derivados do mel, evidenciando o trabalho da agricultura familiar e a importância das feiras como espaço de troca e cultura.
 
 A protagonista Maria representa milhares de mulheres do campo que, com criatividade e dedicação, transformam ingredientes simples em alimentos de qualidade. Assim, o projeto também homenageia a força da mulher na agricultura familiar.
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
@@ -40,7 +35,7 @@ O jogo "Barraca do Mel" é um projeto original, com uma narrativa própria desen
 
 - Estudante: Beatriz de Souza dos Santos
 - Escola: Centro Estadual de Educação Profissional Florestal e Agrícola de Ortigueira
-- Professora responsável:
+- Professora responsável: Angélica de Freitas Rodrigues da Fonseca
 - NRE: Telêmaco Borba
 
 ---
