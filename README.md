@@ -16,7 +16,7 @@ elevenlabs.io
 
 O jogo funciona diretamente no navegador, com controles simples feitos apenas com o **mouse**.
 
-O jogador acompanha Maria e João em sua jornada para preparar alimentos com mel e vendê-los na feira da cidade. As instruções aparecem durante o próprio jogo, tornando a experiência intuitiva.
+O jogador acompanha Maria e João em sua jornada para preparar alimentos com mel e vendê-los na feira da cidade. As instruções aparecem durante o próprio jogo, tornando a experiência intuitiva. elevenlabs.io
 
 
 --
