@@ -9,7 +9,7 @@ O projeto **Barraca do Mel** foi criado com o objetivo de valorizar o alimento a
 
 A protagonista Maria representa milhares de mulheres do campo que, com criatividade e dedicação, transformam ingredientes simples em alimentos de qualidade. Assim, o projeto também homenageia a força da mulher na agricultura familiar.
 
-
+elevenlabs.io
 --
 
 ### 🕹 Como jogar
